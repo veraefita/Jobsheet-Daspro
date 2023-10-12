@@ -13,7 +13,7 @@ public class WhileGaji28 {
         int i = 0;
 
         while (i < jumlahKaryawan){
-            System.out.println();
+            System.out.println();  
             System.out.println("Pilihan jabatan - Direktur,Manajer,Karyawan");
             System.out.print("Masukkan jabatan karyawan ke- " + (i++) + ":");
             jabatan = scan.nextLine();
